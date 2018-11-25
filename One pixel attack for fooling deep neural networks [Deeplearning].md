@@ -1,6 +1,6 @@
-__Title__		:  One pixel attack for fooling deep neural networks
-__Author__ 	:  Jiawei Su, Danilo Vasconcellos Vargas, Sakurai Kouichi 
-__ArXiv__		: https://arxiv.org/abs/1710.08864
+__Title__		:  One pixel attack for fooling deep neural networks </br>
+__Author__ 	:  Jiawei Su, Danilo Vasconcellos Vargas, Sakurai Kouichi </br>
+__ArXiv__		: https://arxiv.org/abs/1710.08864 </br>
 
 ------
 
@@ -31,5 +31,5 @@ One pixel attack , adversarial examples , differential evolution
 
 ##### Open research questions
 
-[1] Effect of a larger set of initial candidate solutions to finding the adversarial image.
-[2] Generate better adversarial examples by having more iterations. 
+[1] Effect of a larger set of initial candidate solutions to finding the adversarial image. </br>
+[2] Generate better adversarial examples by having more iterations.  </br>
