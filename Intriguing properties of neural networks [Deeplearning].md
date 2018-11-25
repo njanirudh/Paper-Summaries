@@ -19,7 +19,7 @@ Adversarial example ,  Perturbations
 
 ### Summary
 
-##### Goal of the paper 
+##### Introduction 
 
 * Explain two properties of  neural network that cause it to misclassify images and cause  difficulty to get solid understanding of network.
 1. Theoretical understanding  of the individual high level unit of a network and a combination of these units or layers.
@@ -54,7 +54,7 @@ Similar experiment was done by the authors on the MNIST data set.
 2. Cross training generalization
 
 
-##### Discussion 
+##### Conclusion 
 * Neural network have a counter intuitive properties wrt. the working of the individual units and discontinuities.
 * Occurance of the adversarial examples and its properties. 
 
