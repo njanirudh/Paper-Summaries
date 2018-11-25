@@ -36,8 +36,9 @@ Adversarial example ,  Perturbations
 Similar experiment was done by the authors on the MNIST data set.
 
 * The interpretation of the results are as following ;
-1. Random direction vector v R n gives rise to similarly interpretable semantic properties.
+1. Random direction vector (V)  gives rise to similarly interpretable semantic properties.
 2. Each feature unit is able to generate invariance on a particular subset of input   distribution.
+![Feature](images/Selection_001.png?raw=true "Features of Individual units")
 
 ##### Blind spots in the neural network
 
@@ -51,8 +52,9 @@ Similar experiment was done by the authors on the MNIST data set.
 ##### Experimental Results
 * Adversarial examples that are indistinguishable from the actual image can be created for all networks.
 1. Cross model generalization : Adversarial images created for one network can affect the other networks also.
-2. Cross training generalization
+2. Cross training generalization 
 
+![Feature](images/Selection_002.png?raw=true "Features of Individual units")
 
 ##### Conclusion 
 * Neural network have a counter intuitive properties wrt. the working of the individual units and discontinuities.
