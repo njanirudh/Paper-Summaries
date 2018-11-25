@@ -1,2 +1,3 @@
-# paper_summaries
-Summaries of papers related to deep learning , computer vision
+# Paper Summaries
+Summaries of papers related to Deep Learning , Computer Vision , Reinforcement Learning.
+
