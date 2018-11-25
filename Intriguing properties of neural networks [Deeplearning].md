@@ -61,7 +61,7 @@ Similar experiment was done by the authors on the MNIST data set.
 * Occurance of the adversarial examples and its properties. 
 
 -----
-##### Notes 
+### Notes 
 
 * Feeding adversarial examples during the model training can improve the generalization of the model.
 * The adversarial examples on the higher layers are more effective than those of input and lower layers.
@@ -69,7 +69,7 @@ Similar experiment was done by the authors on the MNIST data set.
 * According to the the test conducted , autoencoders are more resilient to the adversarial examples.
 * Deep learning networks which are trained from purely supervised training are unstable to a few particular types of perturbations. Small addition of perturbations to the input leads to large perturbations at the output of the last layers.
 
-##### Open research questions
+### Open research questions
 
 [1] Comparing the effects of adversarial examples on lower layers to that of the higher layers.<br/>
 [2] Dependence of the adversarial attacks on training data set of the model.<br/>
