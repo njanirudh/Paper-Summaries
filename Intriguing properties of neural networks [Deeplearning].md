@@ -1,6 +1,6 @@
-__Title__		:  Intriguing properties of neural networks
-__Author__ 	    :  Christian Szegedy, Wojciech Zaremba et al.
-__ArXiv__		: https://arxiv.org/abs/1312.6199
+__Title__		:  Intriguing properties of neural networks <br/>
+__Author__ 	:  Christian Szegedy, Wojciech Zaremba et al. <br/>
+__ArXiv__		: https://arxiv.org/abs/1312.6199 <br/>
 
 ------
 
@@ -69,8 +69,8 @@ Similar experiment was done by the authors on the MNIST data set.
 
 ##### Open research questions
 
-[1] Comparing the effects of adversarial examples on lower layers to that of the higher layers.
-[2] Dependence of the adversarial attacks on training data set of the model.
-[3] Why the adversarial examples generalize across different hyperparameters or training sets.
-[4] How often do adversarial example occur?
+[1] Comparing the effects of adversarial examples on lower layers to that of the higher layers.<br/>
+[2] Dependence of the adversarial attacks on training data set of the model.<br/>
+[3] Why the adversarial examples generalize across different hyperparameters or training sets.<br/>
+[4] How often do adversarial example occur?<br/>
 
