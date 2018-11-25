@@ -54,7 +54,7 @@ Similar experiment was done by the authors on the MNIST data set.
 1. Cross model generalization : Adversarial images created for one network can affect the other networks also.
 2. Cross training generalization 
 
-![Feature](images/Selection_002.png?raw=true "Features of Individual units")
+![Feature](images/Selection_003.png?raw=true "Features of Individual units")
 
 ##### Conclusion 
 * Neural network have a counter intuitive properties wrt. the working of the individual units and discontinuities.
