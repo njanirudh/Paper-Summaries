@@ -1,3 +1,9 @@
 # Paper Summaries
-Summaries of papers related to Deep Learning , Computer Vision , Reinforcement Learning.
 
+Personal collection of Top 30 papers in the field of **Robot Learning** along with a small summary of each.
+
+## Criterion for paper selection 
+
+1. General relevance of paper to robotics.
+2. Contribution and importance of the paper to the subfield.
+3. Broad catagory of the papers selected to increase breadth of knowledge in the field.
