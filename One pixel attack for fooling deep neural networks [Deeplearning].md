@@ -1,10 +1,10 @@
 
 
-**Title		:  **One pixel attack for fooling deep neural networks
+**Title		:** One pixel attack for fooling deep neural networks
 
 **Author 	:** Jiawei Su, Danilo Vasconcellos Vargas, Sakurai Kouichi 
 
-**Citations	: **87
+**Citations	:** 87
 
 
 ---
