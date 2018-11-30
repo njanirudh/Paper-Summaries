@@ -4,6 +4,8 @@
 
 **Author 	:** Jiawei Su, Danilo Vasconcellos Vargas, Sakurai Kouichi 
 
+**ArXiv     :** https://arxiv.org/abs/1710.08864
+
 **Citations	:** 87
 
 
