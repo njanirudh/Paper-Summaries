@@ -6,10 +6,7 @@ Personal collection of Top 30 papers in the field of **Robot Learning** along wi
 [ShortScience](http://www.shortscience.org/user?name=anirudhnj)
 
 
+ # Taxonomy of various related fields
+ 
  
 
-
-
-
-
-## Top 30 Paper List 
