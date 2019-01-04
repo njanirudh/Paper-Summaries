@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.io/njanirudh/Paper-Summaries.svg)](http://hits.dwyl.io/njanirudh/Paper-Summaries)
 
 Personal collection of papers in the field of **Robot Learning** along with a small summary of each.
-[ShortScience](http://www.shortscience.org/user?name=anirudhnj)
+([ShortScience](http://www.shortscience.org/user?name=anirudhnj))
 
 
  ## Taxonomy/Mindmap of various related fields
@@ -14,7 +14,7 @@ Robot Learning or AI systems can be generally divided into the following ways.[1
  ![Feature](images/Taxonomy/4w.png?raw=true "Robot Learning General Division")
  
 ### Full MindMap
-This is a mindmap of all the related fields to Robot Learning. This is not a fully extensive mindmap and many addition/changes can still be made.
+This is a mindmap of all the related fields to Robot Learning. This is not an extensive mindmap and many addition/changes can still be made.
  ![Feature](images/Taxonomy/full_map.png?raw=true "Robot Learning")
 
 ### Optimization Methods
