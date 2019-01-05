@@ -27,6 +27,6 @@ General optimization techniques used.[1][2][3]
 1. Deep Learning , Ian Goodfellow and Yoshua Bengio and Aaron Courville
 2. Optimization methods , http://adl.stanford.edu/aa222/lecture_notes_files/chapter6_gradfree.pdf
 3. Optimization Slides , https://fenix.tecnico.ulisboa.pt/downloadFile/1126518382173838/MDO_lecture_05.pdf
-
+4. OpenAI spinningup , http://spinningup.openai.com/en/latest/index.html
 The mind maps were made using [MindMup](https://www.mindmup.com/)
 
